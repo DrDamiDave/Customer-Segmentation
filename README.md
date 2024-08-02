@@ -7,7 +7,7 @@ In order to fully exploit the opportunities in Mobile, we need to understand how
 - Ensure that we have the best selection of hotels available for Mobile users
 - Target our marketing efforts appropriately
   
-##Task
+## Task
 We would like you to analyse the data and answer the following questions. 
 -	What does the data suggest regarding how bookings differ by platform and region?
 -	Where are we seeing the most growth? 
