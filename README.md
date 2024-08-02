@@ -9,7 +9,7 @@ In order to fully exploit the opportunities in Mobile, we need to understand how
   
 ##Task
 We would like you to analyse the data and answer the following questions. 
-•	What does the data suggest regarding how bookings differ by platform and region?
-•	Where are we seeing the most growth? 
-•	Please use any other measures that you think will be insightful. 
-•	What other data or information would you request to gain additional insight? 
+-	What does the data suggest regarding how bookings differ by platform and region?
+-	Where are we seeing the most growth? 
+-	Please use any other measures that you think will be insightful. 
+-	What other data or information would you request to gain additional insight? 
